@@ -31,7 +31,7 @@ label, input {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: black;
     color: white;
     padding: 10px;
     border: none;
@@ -43,6 +43,6 @@ button:hover {
 }
 
 #result {
-    color: #3333ff;
+    color: whitesmoke;
     font-weight: bold;
 }
