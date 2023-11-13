@@ -34,3 +34,5 @@ function parseTimeInput(timeStr) {
 function formatTime(time) {
     return time.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit" });
 }
+
+document.getElementById("calculate-button").addEventListener("click", calculateStopTime);
